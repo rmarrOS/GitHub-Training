@@ -34,6 +34,7 @@ This is a section for extra training
 Monday
 Tuesday
 Wednesday
+Thursday
 Friday
 Saturday
 Sunday
